@@ -1,5 +1,6 @@
 """
-Função de verificação e validaçã de email.
+Função de verificação e validação de email.
+Função python 3.10
 """
 
 email = "Saulo@e.com"
